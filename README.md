@@ -1,2 +1,29 @@
-# PowerBi-Report-Coffee-Shops
-Analyzed the coffee shop, with the help of Power Bi
+# *Analyzed the coffee shop, with the help of Power Bi*:coffee:
+
+## *Описание проекта*:coffee:
+Этот проект представляет собой анализ данных о покупках в сети кофеен с использованием Power BI. Основная цель проекта — визуализировать ключевые показатели эффективности, такие как объем продаж, доход, маржа и распределение покупателей по различным параметрам.
+
+## *Используемые инструменты*:coffee:
+Power BI: Для анализа и визуализации данных.
+Источники данных: Таблицы с информацией о покупках, клиентах, курсе валют и другие.
+Основные метрики и вычисления
+
+## *Как использовать*:coffee:
+Открытие файла: Открой файл .pbix в Power BI.
+Навигация: Переключайтесь между вкладками, чтобы просмотреть различные визуализации.
+Используйте фильтры для анализа данных по городу, типу кофе, способу оплаты и другим параметрам.
+
+## *Скриншоты дашбордов*:coffee:
+Ниже представлены скриншоты ключевых дашбордов:
+
+**Customers Info**
+![Customers Info](https://github.com/NikitaLanko/PowerBi-Report-Coffee-Shops/blob/076568f5c58e46ebef921f0a93821601dc7f4dc2/image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-08-13%20215025.png)
+
+**Info Sales**
+![Info Sales](https://github.com/NikitaLanko/PowerBi-Report-Coffee-Shops/blob/076568f5c58e46ebef921f0a93821601dc7f4dc2/image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-08-13%20215116.png)
+
+**Coffee Shop Perfomance Analysis**
+![Coffee Shop Perfomance Analysis](https://github.com/NikitaLanko/PowerBi-Report-Coffee-Shops/blob/076568f5c58e46ebef921f0a93821601dc7f4dc2/image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-08-13%20215141.png)
+
+## *Заключение*:coffee:
+Этот проект продемонстрировал, как можно использовать Power BI для анализа данных и визуализации ключевых бизнес-показателей. Используемые дашборды и метрики помогают оценить эффективность работы кофейни и принять обоснованные бизнес-решения.
